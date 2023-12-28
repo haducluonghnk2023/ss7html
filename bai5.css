@@ -1,20 +1,6 @@
-.user-info {
-    border: 1px solid #ccc;
-    padding: 20px;
-    margin: 20px;
-    width: 50%;
-   }
-   
-   .user-info h2 {
-    font-size: 24px;
-    margin-bottom: 10px;
-   }
-   
-   .user-info p {
-    font-size: 16px;
-    margin-bottom: 5px;
-   }
-   
-   .user-info strong {
-    font-weight: bold;
-   }
+.m {
+    color: rgb(188 ,187, 187);
+}
+table{
+    width: 800px;
+}
